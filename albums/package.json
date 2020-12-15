@@ -12,5 +12,21 @@
   },
   "devDependencies": {
     "eslint-config-rallycoding": "^3.1.0"
-  }
+  },
+  "description": "React-Native",
+  "main": "index.android.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guptamadhur/ReactNativeReduxCasts.git"
+  },
+  "keywords": [
+    "React",
+    "React-Native"
+  ],
+  "author": "Madhur Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guptamadhur/ReactNativeReduxCasts/issues"
+  },
+  "homepage": "https://github.com/guptamadhur/ReactNativeReduxCasts#readme"
 }
